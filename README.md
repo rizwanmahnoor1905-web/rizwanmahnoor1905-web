@@ -46,8 +46,9 @@ I am passionate about continuously learning new technologies and aspire to contr
 
 <img src="https://img.shields.io/badge/SOLIDWORKS-CC0000?style=for-the-badge&logo=dassaultsystemes&logoColor=white"/>
 
-</p>
+<img src="https://img.shields.io/badge/ANSYS-FFB71B?style=for-the-badge&logoColor=black"/>
 
+</p>
 ---
 
 # 🚀 Featured Projects
