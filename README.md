@@ -28,7 +28,6 @@ I am passionate about continuously learning new technologies and aspire to contr
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,cpp" />
-<img src="https://skillicons.dev/icons?i=c++,cpp" />
 </p>
 
 ### Engineering Software & Tools
