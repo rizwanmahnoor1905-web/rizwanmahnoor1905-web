@@ -30,7 +30,7 @@ I am passionate about continuously learning new technologies and aspire to contr
 <img src="https://skillicons.dev/icons?i=python,cpp" />
 </p>
 
-### Engineering Software & Tools
+### 🛠️ Engineering Software & Tools
 
 <p align="center">
 
@@ -44,7 +44,7 @@ I am passionate about continuously learning new technologies and aspire to contr
 
 <img src="https://img.shields.io/badge/Fusion_360-FF6C00?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/solid_works?style=for-the-badge&logo=solid_works&logoColor=white"/>
+<img src="https://img.shields.io/badge/SOLIDWORKS-CC0000?style=for-the-badge&logo=dassaultsystemes&logoColor=white"/>
 
 </p>
 
